@@ -1,0 +1,7 @@
+pymongo
+pprint
+requests
+nltk
+gspread
+oauth2client
+PyOpenSSL

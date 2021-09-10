@@ -1,0 +1,47 @@
+>>> python 
+    Python 3.6.6 (default, Jun 27 2018, 14:44:17) 
+    [GCC 8.1.0] on linux
+    Type "help", "copyright", "credits" or "license" for more information.
+>>> import nltk
+>>> nltk.download('stopwords')
+    [nltk_data] Downloading package stopwords to
+    [nltk_data]     C:\Users\akatgelar\AppData\Roaming\nltk_data...
+    [nltk_data]   Unzipping corpora\stopwords.zip.
+    True
+>>> nltk.download('punkt')
+    [nltk_data] Downloading package punkt to
+    [nltk_data]     C:\Users\akatgelar\AppData\Roaming\nltk_data...
+    [nltk_data]   Unzipping tokenizers\punkt.zip.
+    True
+>>> nltk.download('averaged_perceptron_tagger')
+    [nltk_data] Downloading package averaged_perceptron_tagger to
+    [nltk_data]     C:\Users\akatgelar\AppData\Roaming\nltk_data...
+    [nltk_data]   Unzipping taggers\averaged_perceptron_tagger.zip.
+    True
+>>> nltk.download('wordnet')
+    [nltk_data] Downloading package wordnet to
+    [nltk_data]     C:\Users\akatgelar\AppData\Roaming\nltk_data...
+    [nltk_data]   Unzipping corpora\wordnet.zip.
+    True
+>>> ctrl+D
+
+
+NLTK
+Natural Language Toolkit
+modul
+    Stopwords Corpus
+    Punkt Tokenizer Models
+    Averaged Perceptron Tagger
+    Wordnet
+    SentiWordNet v3
+
+
+License
+Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)
+
+You are free to:
+Share — copy and redistribute the material in any medium or format
+Adapt — remix, transform, and build upon the material for any purpose, even commercially.
+
+This license is acceptable for Free Cultural Works.
+The licensor cannot revoke these freedoms as long as you follow the license terms.
